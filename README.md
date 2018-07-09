@@ -40,7 +40,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://imgur.com/d8eVMWz' title='FlickSters' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](https://imgur.com/K2yIU2Y/).
+GIF created with [LiceCap](https://imgur.com/a/rlUkmFu).
 
 ## Notes
 
